@@ -23,7 +23,7 @@ Program zawiera kilka niezależnych klas ilustrujących różne koncepcje OOP:
 ### Uruchomienie
  
 ```bash
-g++ main.cpp -o program
+g++ PO_03_emilia_lupa.cpp -o program
 ./program
 ```
  
@@ -48,7 +48,7 @@ The program contains several independent classes illustrating different OOP conc
 ### How to run
  
 ```bash
-g++ main.cpp -o program
+g++ PO_03_emilia_lupa.cpp -o program
 ./program
 ```
  
